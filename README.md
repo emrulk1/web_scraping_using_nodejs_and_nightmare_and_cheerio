@@ -1,4 +1,4 @@
-his project is cloned from https://github.com/ankitjain28may/scraping-nodejs for testing purpose.
+this project is cloned from https://github.com/ankitjain28may/scraping-nodejs for testing purpose.
 you can find the step by step tutorial here : https://morioh.com/p/5932527fe756/how-to-perform-web-scraping-using-node-js 
 
 Setup
